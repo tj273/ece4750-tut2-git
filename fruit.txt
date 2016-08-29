@@ -1,5 +1,8 @@
 apple
 mango
 orange
+<<<<<<< HEAD
 
+=======
+>>>>>>> 54ea4eba96e1bd12bcbeb8ff0d8edd774eaef09a
 banana
